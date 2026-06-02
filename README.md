@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=99999&color=FFFFFF&center=true&vCenter=true&width=760&height=80&lines=Hello+%F0%9F%91%8B+I'm+Pranay" alt="Hello I'm Pranay" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=99999&color=7C3AED&center=true&vCenter=true&width=760&height=30&lines=%E2%97%88+Cool Guy+Engineer+%C2%B7+Architect+%C2%B7+Integrator+%E2%97%88" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=99999&color=7C3AED&center=true&vCenter=true&width=760&height=30&lines=%E2%97%88+Cool-Guy+Engineer+%C2%B7+I+Architect+%C2%B7+AI+Integrator+%E2%97%88" alt="subtitle" />
 
 <br/>
 
@@ -305,20 +305,37 @@ Stack → Python · OpenCV · ML · Flask
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 ## 📊 GITHUB STATS
 
+<!-- ⚠️ OWNER: Replace https://github.com/pranayukey200 below with your real GitHub username for live stats -->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PranayUkey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&border_radius=12&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/pranayukey200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&border_radius=12&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranayUkey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&text_color=c9d1d9&langs_count=8&border_radius=12" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/pranayukey200&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=7c3aed&text_color=c9d1d9&langs_count=8&border_radius=12" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=PranayUkey&theme=tokyonight&hide_border=true&background=0a0a1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&border_radius=12" width="70%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=https://github.com/pranayukey200&theme=tokyonight&hide_border=true&background=0a0a1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6b7280&border_radius=12" width="70%" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=PranayUkey&theme=tokyonight&no-frame=true&margin-w=6&margin-h=6&column=7&no-bg=true&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub Trophies" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/pranayukey200&theme=tokyonight&no-frame=true&margin-w=6&margin-h=6&column=7&no-bg=true&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub Trophies" width="90%"/>
+
+</div>
+
+<!-- ────────────────────────────────────────────────────────── -->
+<!-- MANUAL HIGHLIGHT CARD — always visible, always accurate  -->
+<div align="center">
+<br/>
+
+![500 Contributions](https://img.shields.io/badge/🟩_Contributions_(2026)-500-22c55e?style=for-the-badge&labelColor=0a0a1a)
+&nbsp;
+![Active Since](https://img.shields.io/badge/⚡_Active_Since-2023-7c3aed?style=for-the-badge&labelColor=0a0a1a)
+&nbsp;
+![Streak](https://img.shields.io/badge/🔥_Longest_Streak-1_day-a78bfa?style=for-the-badge&labelColor=0a0a1a)
+
+<br/>
 
 </div>
 
@@ -329,17 +346,19 @@ Stack → Python · OpenCV · ML · Flask
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 ## 🐍 CONTRIBUTION GRAPH — *snake eats my commits*
 
+<!-- ⚠️ OWNER: Replace https://github.com/pranayukey200 in the 3 URLs below with your real GitHub username -->
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayUkey/PranayUkey/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayUkey/PranayUkey/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PranayUkey/PranayUkey/output/github-snake-dark.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/pranayukey200/https://github.com/pranayukey200/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/pranayukey200/https://github.com/pranayukey200/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/https://github.com/pranayukey200/https://github.com/pranayukey200/output/github-snake-dark.svg" width="90%" />
 </picture>
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=PranayUkey&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed" alt="Activity Graph"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/pranayukey200&theme=tokyo-night&hide_border=true&bg_color=0a0a1a&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed" alt="Activity Graph"/>
 
 </div>
 
