@@ -108,41 +108,22 @@ Research:     3+ institutional AI×IoT projects
 
 <div align="center">
 
-<!-- ✅ WORKING 2026: github-profile-summary-cards (different host, still active) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranayukey200&theme=tokyonight" width="100%" alt="Profile Details"/>
+<!-- Widget 1 + 2: Streak & Top Languages — side by side, compact -->
+<img src="https://streak-stats.demolab.com/?user=pranayukey200&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6e6e9a&border_radius=12" height="165" alt="GitHub Streak"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayukey200&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=c9d1d9&border_radius=12&langs_count=6&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranayukey200&theme=tokyonight" height="180" alt="Stats"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranayukey200&theme=tokyonight" height="180" alt="Languages"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranayukey200&theme=tokyonight" height="180" alt="Commit Language"/>
+<!-- Widget 3: Activity Graph — full width, most beautiful -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranayukey200&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=130428&radius=6)](https://github.com/pranayukey200)
 
-<!-- ✅ WORKING 2026: streak-stats.demolab.com (PHP-based, still up) -->
-<img src="https://streak-stats.demolab.com/?user=pranayukey200&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&border_radius=10" alt="GitHub Streak" width="60%"/>
+<!-- Widget 4: Trophies — full width, elegant row -->
+<img src="https://github-profile-trophy.vercel.app/?username=pranayukey200&theme=tokyonight&no-frame=true&margin-w=6&column=6&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="92%" alt="GitHub Trophies"/>
 
-<!-- ✅ WORKING 2026: github-profile-trophy (separate project, still active) -->
-<img src="https://github-profile-trophy.vercel.app/?username=pranayukey200&theme=tokyonight&no-frame=true&margin-w=4&column=7&no-bg=true" alt="GitHub Trophies" width="90%"/>
-
-<br/>
-
-![](https://img.shields.io/badge/🟩_2026_Contributions-500+-22c55e?style=for-the-badge&labelColor=0d1117)
-&nbsp;
-![](https://img.shields.io/badge/⚡_Active_Since-Feb_2023-7c3aed?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION GRAPH
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranayukey200&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed)](https://github.com/pranayukey200)
-
+<!-- Animated snake (bonus, zero-API-dependency once workflow runs) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranayukey200/pranayukey200/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranayukey200/pranayukey200/output/github-snake.svg"/>
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/pranayukey200/pranayukey200/output/github-snake-dark.svg" width="90%"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/pranayukey200/pranayukey200/output/github-snake-dark.svg" width="92%"/>
 </picture>
 
 </div>
