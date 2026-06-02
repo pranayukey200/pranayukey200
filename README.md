@@ -108,22 +108,28 @@ Research:     3+ institutional AI×IoT projects
 
 <div align="center">
 
-<!-- Widget 1 + 2: Streak & Top Languages — side by side, compact -->
-<img src="https://streak-stats.demolab.com/?user=pranayukey200&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6e6e9a&border_radius=12" height="165" alt="GitHub Streak"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayukey200&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7c3aed&text_color=c9d1d9&border_radius=12&langs_count=6&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages"/>
+<!-- ✅ Shields.io — 1.6 billion requests/month, never goes down -->
+![Repos](https://img.shields.io/badge/Public_Repos-13-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Stars](https://img.shields.io/badge/Total_Stars-5-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/2026_Commits-86-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![PRs](https://img.shields.io/badge/Pull_Requests-21-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
-<!-- Widget 3: Activity Graph — full width, most beautiful -->
+![TypeScript](https://img.shields.io/badge/TypeScript-Most_Used-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-2nd-3776ab?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Dart](https://img.shields.io/badge/Dart-3rd-00b4ab?style=flat-square&logo=dart&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-4th-f89820?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+![HTML](https://img.shields.io/badge/HTML-5th-e34f26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
+
+<br/>
+
+<!-- ✅ Activity Graph — confirmed live, SVG response verified -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranayukey200&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=130428&radius=6)](https://github.com/pranayukey200)
 
-<!-- Widget 4: Trophies — full width, elegant row -->
-<img src="https://github-profile-trophy.vercel.app/?username=pranayukey200&theme=tokyonight&no-frame=true&margin-w=6&column=6&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="92%" alt="GitHub Trophies"/>
-
-<!-- Animated snake (bonus, zero-API-dependency once workflow runs) -->
+<!-- ✅ Snake — served from your own repo once workflow runs once -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranayukey200/pranayukey200/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranayukey200/pranayukey200/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/pranayukey200/pranayukey200/output/github-snake-dark.svg" width="92%"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/pranayukey200/pranayukey200/output/github-snake-dark.svg" width="88%"/>
 </picture>
 
 </div>
