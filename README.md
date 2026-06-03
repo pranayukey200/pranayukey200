@@ -9,7 +9,7 @@
 [![GSSOC](https://img.shields.io/badge/◈_GirlScript_SoC-FF6B35?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a1a)](https://gssoc.girlscript.org/profile/eca1c160-431c-4f8c-b901-25e0b815d0bf)
 [![Gmail](https://img.shields.io/badge/◈_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a)](mailto:pranayuworkspace@gmail.com)
 
-![](https://img.shields.io/badge/🎓_ECE-IIIT_Nagpur_'27-7c3aed?style=flat-square&labelColor=0a0a1a)
+![](https://img.shields.io/badge/🎓_ECE-IIIT_Nagpur_'28-7c3aed?style=flat-square&labelColor=0a0a1a)
 ![](https://img.shields.io/badge/💼_Open_To-Internships_&_Collabs-10b981?style=flat-square&labelColor=0a0a1a)
 ![](https://img.shields.io/badge/🔭-Building_in_Public-22d3ee?style=flat-square&labelColor=0a0a1a)
 
