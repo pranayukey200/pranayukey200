@@ -154,8 +154,8 @@ Research:     3+ institutional AI×IoT projects
 | | Role | Organization | Period |
 |:---:|:---|:---|:---:|
 | 📍 | **Placement Coordinator** | T&P Cell, IIIT Nagpur | `Aug 2024 → Now` |
-| 🔬 | **Research Intern** | IIIT Nagpur | `Jan 2025 → Now` |
-| 🎤 | **PR Lead** | E-Summit · Abhivyakti · TantraFiesta | `Sep 2023 → Now` |
+| 🔬 | **Research Intern** | IIIT Nagpur | `Jan 2025 → Dec 2025` |
+| 🎤 | **PR Lead** | E-Summit · Abhivyakti · TantraFiesta | `Sep 2023 → Oct 2025` |
 
 </div>
 
@@ -175,7 +175,7 @@ Research:     3+ institutional AI×IoT projects
 <td width="33%" valign="top" align="center">
 
 **🔬 Research Intern**
-*IIIT Nagpur · Jan 2025 → Now*
+*IIIT Nagpur · Jan 2025 → Dec 2025*
 
 ```
 → 3+ institutional AI×IoT projects
